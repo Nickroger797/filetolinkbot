@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 <p align="center"> 
-  <img src="https://telegra.ph/file/f2c253c5b0b747042cf4c.png" alt="Lazy Streamer LOGO" width="650">
+  <img src="https://telegra.ph/file/320a564df48a070d837be.jpg" alt="Lazy Streamer LOGO" width="650">
   </a>
   
  <p align="center">
